@@ -18,7 +18,7 @@ import logging
 import os
 
 # Set up logging
-logging.basicConfig(level=logging.INFO,
+logging.basicConfig(level=logging.INFO, 
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 # User-agent list for rotation
@@ -73,7 +73,7 @@ class CombinedSpider(scrapy.Spider):
 
     def start_requests(self):
         urls = [
-            'https://ca.indeed.com',  # Add other URLs as needed
+            'https://example.com',  # Add other URLs as needed
         ]
         for url in urls:
             headers = {'User-Agent': random.choice(USER_AGENTS)}

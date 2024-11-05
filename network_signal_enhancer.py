@@ -38,7 +38,7 @@ def display_network_data(network_data):
 
     table = PrettyTable()
     table.field_names = ["Interface", "IP Address",
-                         "Netmask", "Broadcast", "Is Up", "Speed (Mbps)", "MTU"]
+                        "Netmask", "Broadcast", "Is Up", "Speed (Mbps)", "MTU"]
 
     for data in network_data:
         table.add_row([
