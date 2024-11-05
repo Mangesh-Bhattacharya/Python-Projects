@@ -1,0 +1,132 @@
+2024-11-03 19:40:22,472 - INFO - Active IPs found: ['192.168.2.1', '192.168.2.14', '192.168.2.11', '192.168.2.18', '192.168.2.19', '192.168.2.28', '192.168.2.33', '192.168.2.26', '192.168.2.20', '192.168.2.22', '192.168.2.27', '192.168.2.29', '192.168.2.21', '192.168.2.34', '192.168.2.32']
+2024-11-03 19:40:22,472 - INFO - Attempting connections on 192.168.2.1...
+2024-11-03 19:40:43,525 - ERROR - SSH Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:41:04,563 - ERROR - FTP Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:41:25,609 - ERROR - SSH Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:41:46,653 - ERROR - FTP Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:41:46,653 - INFO - Attempting connections on 192.168.2.14...
+2024-11-03 19:41:48,692 - ERROR - SSH Error on 192.168.2.14: [Errno None] Unable to connect to port 22 on 192.168.2.14
+2024-11-03 19:41:50,740 - ERROR - FTP Error on 192.168.2.14: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:41:52,786 - ERROR - SSH Error on 192.168.2.14: [Errno None] Unable to connect to port 22 on 192.168.2.14
+2024-11-03 19:41:54,833 - ERROR - FTP Error on 192.168.2.14: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:41:54,833 - INFO - Attempting connections on 192.168.2.11...
+2024-11-03 19:41:56,875 - ERROR - SSH Error on 192.168.2.11: [Errno None] Unable to connect to port 22 on 192.168.2.11
+2024-11-03 19:41:58,922 - ERROR - FTP Error on 192.168.2.11: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:42:00,961 - ERROR - SSH Error on 192.168.2.11: [Errno None] Unable to connect to port 22 on 192.168.2.11
+2024-11-03 19:42:03,004 - ERROR - FTP Error on 192.168.2.11: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:42:03,004 - INFO - Attempting connections on 192.168.2.18...
+2024-11-03 19:42:05,046 - ERROR - SSH Error on 192.168.2.18: [Errno None] Unable to connect to port 22 on 192.168.2.18
+2024-11-03 19:42:07,087 - ERROR - FTP Error on 192.168.2.18: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:42:09,125 - ERROR - SSH Error on 192.168.2.18: [Errno None] Unable to connect to port 22 on 192.168.2.18
+2024-11-03 19:42:11,170 - ERROR - FTP Error on 192.168.2.18: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:42:11,170 - INFO - Attempting connections on 192.168.2.19...
+2024-11-03 19:42:13,214 - ERROR - SSH Error on 192.168.2.19: [Errno None] Unable to connect to port 22 on 192.168.2.19
+2024-11-03 19:42:15,258 - ERROR - FTP Error on 192.168.2.19: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:42:17,299 - ERROR - SSH Error on 192.168.2.19: [Errno None] Unable to connect to port 22 on 192.168.2.19
+2024-11-03 19:42:19,332 - ERROR - FTP Error on 192.168.2.19: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:42:19,332 - INFO - Attempting connections on 192.168.2.28...
+2024-11-03 19:42:21,369 - ERROR - SSH Error on 192.168.2.28: [Errno None] Unable to connect to port 22 on 192.168.2.28
+2024-11-03 19:42:23,409 - ERROR - FTP Error on 192.168.2.28: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:42:25,461 - ERROR - SSH Error on 192.168.2.28: [Errno None] Unable to connect to port 22 on 192.168.2.28
+2024-11-03 19:42:27,508 - ERROR - FTP Error on 192.168.2.28: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:42:27,508 - INFO - Attempting connections on 192.168.2.33...
+2024-11-03 19:42:29,549 - ERROR - SSH Error on 192.168.2.33: [Errno None] Unable to connect to port 22 on 192.168.2.33
+2024-11-03 19:42:31,595 - ERROR - FTP Error on 192.168.2.33: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:42:33,635 - ERROR - SSH Error on 192.168.2.33: [Errno None] Unable to connect to port 22 on 192.168.2.33
+2024-11-03 19:42:35,699 - ERROR - FTP Error on 192.168.2.33: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:42:35,699 - INFO - Attempting connections on 192.168.2.26...
+2024-11-03 19:42:56,743 - ERROR - SSH Error on 192.168.2.26: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:43:17,773 - ERROR - FTP Error on 192.168.2.26: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:43:38,802 - ERROR - SSH Error on 192.168.2.26: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:43:59,829 - ERROR - FTP Error on 192.168.2.26: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:43:59,829 - INFO - Attempting connections on 192.168.2.20...
+2024-11-03 19:44:01,872 - ERROR - SSH Error on 192.168.2.20: [Errno None] Unable to connect to port 22 on 192.168.2.20
+2024-11-03 19:44:03,905 - ERROR - FTP Error on 192.168.2.20: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:44:05,953 - ERROR - SSH Error on 192.168.2.20: [Errno None] Unable to connect to port 22 on 192.168.2.20
+2024-11-03 19:44:07,999 - ERROR - FTP Error on 192.168.2.20: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:44:07,999 - INFO - Attempting connections on 192.168.2.22...
+2024-11-03 19:44:11,359 - ERROR - SSH Error on 192.168.2.22: [Errno None] Unable to connect to port 22 on 192.168.2.22
+2024-11-03 19:44:14,434 - ERROR - FTP Error on 192.168.2.22: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:44:17,247 - ERROR - SSH Error on 192.168.2.22: [Errno None] Unable to connect to port 22 on 192.168.2.22
+2024-11-03 19:44:20,578 - ERROR - FTP Error on 192.168.2.22: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:44:20,578 - INFO - Attempting connections on 192.168.2.27...
+2024-11-03 19:44:41,621 - ERROR - SSH Error on 192.168.2.27: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:45:02,649 - ERROR - FTP Error on 192.168.2.27: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:45:23,694 - ERROR - SSH Error on 192.168.2.27: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:45:44,742 - ERROR - FTP Error on 192.168.2.27: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:45:44,742 - INFO - Attempting connections on 192.168.2.29...
+2024-11-03 19:45:47,815 - ERROR - SSH Error on 192.168.2.29: [Errno None] Unable to connect to port 22 on 192.168.2.29
+2024-11-03 19:45:50,216 - ERROR - FTP Error on 192.168.2.29: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:45:52,737 - ERROR - SSH Error on 192.168.2.29: [Errno None] Unable to connect to port 22 on 192.168.2.29
+2024-11-03 19:45:55,130 - ERROR - FTP Error on 192.168.2.29: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:45:55,130 - INFO - Attempting connections on 192.168.2.21...
+2024-11-03 19:45:58,494 - ERROR - SSH Error on 192.168.2.21: [Errno None] Unable to connect to port 22 on 192.168.2.21
+2024-11-03 19:46:01,772 - ERROR - FTP Error on 192.168.2.21: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:46:04,649 - ERROR - SSH Error on 192.168.2.21: [Errno None] Unable to connect to port 22 on 192.168.2.21
+2024-11-03 19:46:07,938 - ERROR - FTP Error on 192.168.2.21: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:46:07,938 - INFO - Attempting connections on 192.168.2.34...
+2024-11-03 19:46:10,464 - ERROR - SSH Error on 192.168.2.34: [Errno None] Unable to connect to port 22 on 192.168.2.34
+2024-11-03 19:46:12,810 - ERROR - FTP Error on 192.168.2.34: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:46:15,265 - ERROR - SSH Error on 192.168.2.34: [Errno None] Unable to connect to port 22 on 192.168.2.34
+2024-11-03 19:46:17,731 - ERROR - FTP Error on 192.168.2.34: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:46:17,731 - INFO - Attempting connections on 192.168.2.32...
+2024-11-03 19:46:19,792 - ERROR - SSH Error on 192.168.2.32: [Errno None] Unable to connect to port 22 on 192.168.2.32
+2024-11-03 19:46:21,837 - ERROR - FTP Error on 192.168.2.32: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:46:23,889 - ERROR - SSH Error on 192.168.2.32: [Errno None] Unable to connect to port 22 on 192.168.2.32
+2024-11-03 19:46:25,954 - ERROR - FTP Error on 192.168.2.32: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-03 19:50:13,353 - INFO - Active IPs found: ['192.168.2.1', '192.168.2.14', '192.168.2.11', '192.168.2.18', '192.168.2.19', '192.168.2.28', '192.168.2.21', '192.168.2.33', '192.168.2.20', '192.168.2.27', '192.168.2.34', '192.168.2.30', '192.168.2.26', '192.168.2.32', '192.168.2.22', '192.168.2.60', '192.168.2.29']
+2024-11-03 19:50:13,354 - INFO - Attempting connections on 192.168.2.1...
+2024-11-03 19:50:34,413 - ERROR - SSH Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:50:34,413 - INFO - Successful SSH login on 192.168.2.1 with admin:123456
+2024-11-03 19:50:55,437 - ERROR - FTP Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:50:55,438 - INFO - Successful FTP login on 192.168.2.1 with admin:123456
+2024-11-03 19:51:16,460 - ERROR - SSH Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:51:16,463 - INFO - Successful SSH login on 192.168.2.1 with admin:password
+2024-11-03 19:51:37,490 - ERROR - FTP Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:51:37,490 - INFO - Successful FTP login on 192.168.2.1 with admin:password
+2024-11-03 19:51:58,540 - ERROR - SSH Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:51:58,541 - INFO - Successful SSH login on 192.168.2.1 with admin:admin123
+2024-11-03 19:52:19,576 - ERROR - FTP Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:52:19,576 - INFO - Successful FTP login on 192.168.2.1 with admin:admin123
+2024-11-03 19:52:40,606 - ERROR - SSH Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:52:40,606 - INFO - Successful SSH login on 192.168.2.1 with admin:letmein
+2024-11-03 19:53:01,644 - ERROR - FTP Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:53:01,645 - INFO - Successful FTP login on 192.168.2.1 with admin:letmein
+2024-11-03 19:53:22,687 - ERROR - SSH Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:53:22,687 - INFO - Successful SSH login on 192.168.2.1 with admin:welcome
+2024-11-03 19:53:43,733 - ERROR - FTP Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:53:43,733 - INFO - Successful FTP login on 192.168.2.1 with admin:welcome
+2024-11-03 19:54:04,781 - ERROR - SSH Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:54:04,781 - INFO - Successful SSH login on 192.168.2.1 with user:123456
+2024-11-03 19:54:25,810 - ERROR - FTP Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:54:25,810 - INFO - Successful FTP login on 192.168.2.1 with user:123456
+2024-11-03 19:54:46,852 - ERROR - SSH Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:54:46,852 - INFO - Successful SSH login on 192.168.2.1 with user:password
+2024-11-03 19:55:07,892 - ERROR - FTP Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:55:07,892 - INFO - Successful FTP login on 192.168.2.1 with user:password
+2024-11-03 19:55:28,919 - ERROR - SSH Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:55:28,921 - INFO - Successful SSH login on 192.168.2.1 with user:admin123
+2024-11-03 19:55:49,969 - ERROR - FTP Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:55:49,969 - INFO - Successful FTP login on 192.168.2.1 with user:admin123
+2024-11-03 19:56:11,014 - ERROR - SSH Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:56:11,015 - INFO - Successful SSH login on 192.168.2.1 with user:letmein
+2024-11-03 19:56:32,040 - ERROR - FTP Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:56:32,040 - INFO - Successful FTP login on 192.168.2.1 with user:letmein
+2024-11-03 19:56:53,066 - ERROR - SSH Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:56:53,066 - INFO - Successful SSH login on 192.168.2.1 with user:welcome
+2024-11-03 19:57:14,102 - ERROR - FTP Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:57:14,103 - INFO - Successful FTP login on 192.168.2.1 with user:welcome
+2024-11-03 19:57:35,140 - ERROR - SSH Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:57:35,140 - INFO - Successful SSH login on 192.168.2.1 with testuser:123456
+2024-11-03 19:57:56,186 - ERROR - FTP Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:57:56,187 - INFO - Successful FTP login on 192.168.2.1 with testuser:123456
+2024-11-03 19:58:17,223 - ERROR - SSH Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:58:17,223 - INFO - Successful SSH login on 192.168.2.1 with testuser:password
+2024-11-03 19:58:38,266 - ERROR - FTP Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:58:38,267 - INFO - Successful FTP login on 192.168.2.1 with testuser:password
+2024-11-03 19:58:59,294 - ERROR - SSH Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:58:59,294 - INFO - Successful SSH login on 192.168.2.1 with testuser:admin123
+2024-11-03 19:59:20,333 - ERROR - FTP Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:59:20,333 - INFO - Successful FTP login on 192.168.2.1 with testuser:admin123
+2024-11-03 19:59:41,355 - ERROR - SSH Error on 192.168.2.1: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-03 19:59:41,355 - INFO - Successful SSH login on 192.168.2.1 with testuser:letmein
