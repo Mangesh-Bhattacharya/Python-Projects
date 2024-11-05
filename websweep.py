@@ -1,6 +1,5 @@
 ######################################################################################
 #####           Mangesh Bhattacharya                                             #####
-#####               039-251-145                                                  #####
 #####       WAS600: Web Application Security                                     #####
 #####           Prof. Mike Martin                                                #####
 #####       Assignment 1B:  Description and  Submission                          #####
