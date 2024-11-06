@@ -122,7 +122,7 @@ def discover_users(url):
 
 # Main function
 def main():
-    target_url = "https://www.wemix.com"
+    target_url = "https://www.example.com"
     print(f"Performing reconnaissance on: {target_url}")
 
     # Define custom headers to bypass WAF
